@@ -1,3 +1,4 @@
+// a number is divisible by 6 when its last digit divisible by 2 and sum of digits divisible by 3
 public class NumberOfSubStringDivisibleBy6 {
 
     public static boolean checkDivisibleBy6(String str){
@@ -9,7 +10,6 @@ public class NumberOfSubStringDivisibleBy6 {
         for(int i=0;i<str.length();i++){
             sum+=str.charAt(i)-'0';
         }
-
         return (sum%3==0);
     }
 
