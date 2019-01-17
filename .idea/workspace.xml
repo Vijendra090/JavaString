@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ef6edd6-04cc-4c4c-8beb-4cbbe6092bd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LongDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PerfectReversible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RotateString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/LongDivision.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/PerfectReversible.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/RotateString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/StringMultiplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,55 +22,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="2023019263">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.48" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="9" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="9" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2508" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2508" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DecimalOfBinaryDivisibleBy5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,11 +39,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/StringDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ImmutableString.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringComparison.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringConcatenation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ImmutableString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/NumberOfSubStringDivisibleBy6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DecimalOfBinaryDivisibleBy5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StringMultiplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LongDivision.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PerfectReversible.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RotateString.java" />
       </list>
     </option>
   </component>
@@ -154,7 +119,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547732428003" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547726104451" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -171,24 +137,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DecimalOfBinaryDivisibleBy5">
-    <configuration name="DecimalOfBinaryDivisibleBy5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecimalOfBinaryDivisibleBy5" />
-      <module name="JavaStringLearning" />
+  <component name="RunManager" selected="Application.RotateString">
+    <configuration name="LongDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongDivision" />
+      <module name="JavaString" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImmutableString" />
-      <module name="JavaStringLearning" />
+    <configuration name="PerfectReversible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerfectReversible" />
+      <module name="JavaString" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringComparison" />
-      <module name="JavaStringLearning" />
+    <configuration name="RotateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RotateString" />
+      <module name="JavaString" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -200,27 +166,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringDemo" />
-      <module name="JavaStringLearning" />
+    <configuration name="StringMultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringMultiplication" />
+      <module name="JavaString" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringDemo" />
-      <item itemvalue="Application.ImmutableString" />
-      <item itemvalue="Application.StringComparison" />
       <item itemvalue="Application.StringConcatenation" />
-      <item itemvalue="Application.DecimalOfBinaryDivisibleBy5" />
+      <item itemvalue="Application.StringMultiplication" />
+      <item itemvalue="Application.LongDivision" />
+      <item itemvalue="Application.PerfectReversible" />
+      <item itemvalue="Application.RotateString" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DecimalOfBinaryDivisibleBy5" />
+        <item itemvalue="Application.RotateString" />
+        <item itemvalue="Application.PerfectReversible" />
+        <item itemvalue="Application.LongDivision" />
+        <item itemvalue="Application.StringMultiplication" />
         <item itemvalue="Application.StringConcatenation" />
-        <item itemvalue="Application.StringComparison" />
-        <item itemvalue="Application.ImmutableString" />
-        <item itemvalue="Application.StringDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -250,15 +216,15 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32626426" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4117647" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5628059" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.88091356" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32626426" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -267,10 +233,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32930514" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -285,36 +249,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ImmutableString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StringConcatenation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StringComparison.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="119">
           <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LongDivision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PerfectReversible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/NumberOfSubStringDivisibleBy6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="-14">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DecimalOfBinaryDivisibleBy5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/RotateString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="66" lean-forward="true" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
+        <state relative-caret-position="629">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
