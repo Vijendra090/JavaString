@@ -5,6 +5,7 @@ public class ReverseIndividualWords {
         for(int i=0;i<S.length;i++){
 
         }
+        return null;
     }
     public static void main(String[] args){
         String str= "HELLO WORLD";
